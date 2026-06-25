@@ -23,6 +23,24 @@ The objective of this project is to develop a simple, responsive, and interactiv
 - Optimized the application for desktop, tablet, and mobile devices.
 - Tested the application with different temperature values to ensure accurate and reliable results.
 
+- How It Works
+Input:
+Enter a temperature value and select the From and To units (Celsius, Fahrenheit, or Kelvin).
+
+Conversion:
+Click the Convert button. The program uses the correct temperature conversion formula based on the selected units.
+
+- Celsius → Fahrenheit: "(°C × 9/5) + 32"
+- Fahrenheit → Celsius: "(°F − 32) × 5/9"
+- Celsius → Kelvin: "°C + 273.15"
+- Kelvin → Celsius: "K − 273.15"
+- Fahrenheit → Kelvin: "((°F − 32) × 5/9) + 273.15"
+- Kelvin → Fahrenheit: "((K − 273.15) × 9/5) + 32"
+
+Output:
+The converted temperature is displayed instantly with two decimal places. If the input is invalid, the application shows "Please enter a valid number."
+
+
 =>TOOLS USED 
 
 
