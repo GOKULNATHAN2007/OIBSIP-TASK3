@@ -23,7 +23,9 @@ The objective of this project is to develop a simple, responsive, and interactiv
 - Optimized the application for desktop, tablet, and mobile devices.
 - Tested the application with different temperature values to ensure accurate and reliable results.
 
+
 - How It Works
+  
 Input:
 Enter a temperature value and select the From and To units (Celsius, Fahrenheit, or Kelvin).
 
